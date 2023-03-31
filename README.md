@@ -8,7 +8,7 @@ npm install node-wangyu-multiparty
 ```
 Once the package is installed, you can import the library using require approach:
 ```javascript
-const multiparty = require('node-wangyu-multiparty')
+const MultipartyParse = require('node-wangyu-multiparty')
 ```
 ###### Example:
 ```javascript
