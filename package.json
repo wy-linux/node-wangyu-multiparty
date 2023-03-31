@@ -1,0 +1,23 @@
+{
+  "name": "node-wangyu-multiparty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wy-linux/node-wangyu-multiparty.git"
+  },
+  "directories": {
+    "example": "example",
+    "bin": "bin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangyu",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "uuid": "^9.0.0"
+  }
+}
